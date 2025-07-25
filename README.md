@@ -54,6 +54,6 @@ Many asthma patients misuse inhalers or are unaware of surrounding environmental
 - Received funding and positive recognition from CERD and IEI
 - Project video featured in innovation showcase
 
-📺 **[Watch Demo Video](#)** *(https://drive.google.com/file/d/1-YAOvLBpQ70vIFqiw_gtdOewrAY0Q7La/view?usp=sharing)*
+📺 **[Watch Demo Video](https://drive.google.com/file/d/1-YAOvLBpQ70vIFqiw_gtdOewrAY0Q7La/view?usp=sharing)**
 
 ---
